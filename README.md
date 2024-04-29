@@ -17,7 +17,8 @@ CyberBot is designed to be easy to use. Just invite it to your server and start 
 1. Clone the repository.
 2. Install dependencies with `npm install`.
 3. Configure your Discord bot token.
-4. Start the bot with `node deploy-commands.js && node index.js`.
+4. Deploy the commands with `node deploy-commands.js`.
+5. Start the bot with `node index.js`.
 
 ## License
 This project is licensed under the MIT License.
